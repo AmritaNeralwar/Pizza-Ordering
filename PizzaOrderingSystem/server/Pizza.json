@@ -1,0 +1,86 @@
+
+{
+    "Pizza":[
+            {
+                 
+                "id":"01",
+                "name":"Dulex Veggie",
+                "url": "images/DulexVegie.png",
+                "ingredients":"Onion,capsicum,grilled mushroom,golden corn,paneer.",
+                "priceS":"349",
+                "priceR":"370",
+                "priceL":"400"
+            },
+            {
+            "id":"02",
+            "name":"Veg Extravaganza",
+           "url": "images/extraVag.png",
+           "ingredients":"Black olive,capsicum,onion,grilled mushroom,golden corn,extra cheese.",
+           "priceS":"400",
+           "priceR":"450",
+           "priceL":"500"
+           },
+           {
+            
+           "id":"03",
+            "name":"5 Pepper",
+           "url": "images/pepper5.png",
+           "ingredients":"capsicum,yellow,red bell pepper,jelapeno,red paperika",
+           "priceS":"550",
+           "priceR":"590",
+           "priceL":"600"
+           },
+           {
+            
+               "id":"04",
+              "name":"Double Cheese Margherita",
+              "url": "images/PizzaDoubleCheese.png",
+              "ingredients":"tomatoes, mozzarella from Campania,loaded with extra cheese",
+              "priceS":"349",
+               "priceR":"390",
+               "priceL":"440"
+              
+              },
+              {
+               
+              "id":"05",
+               "name":"cheese n corn",
+              "url": "images/corn_n_cheese.png",
+              "ingredients":"mozzarella from Campania, basil,extra cheese with golden corns",
+              "priceS":"309",
+               "priceR":"504",
+               "priceL":"609"
+              },
+              {
+               
+              "id":"06",
+               "name":"fresh Veggie",
+              "url": "images/FreshVeggie.png",
+              "ingredients":"capsicum,onion,tomato filled with lots of veggies",
+              "priceS":"349",
+               "priceR":"312",
+               "priceL":"400"
+              },
+              {
+            
+               "id":"07",
+              "name":"Peepi Paneer",
+              "url": "images/peppy.png",
+              "ingredients":"paneer,capsium,onion and lots of paperica with organic herbs",
+                "priceS":"444",
+               "priceR":"466",
+               "priceL":"509"
+              
+              },
+              {
+               
+              "id":"08",
+               "name":"Mexican green Wave",
+              "url": "images/mexiconGreen.png",
+              "ingredients":"onion,crisp capsicum,fresf tomato jalapeno sprinkled with organic herbs",
+              "priceS":"300",
+              "priceR":"350",
+              "priceL":"450"
+              }
+        ]
+}

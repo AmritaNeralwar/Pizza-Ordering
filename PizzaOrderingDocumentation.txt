@@ -1,0 +1,17 @@
+The pizza ordering system is single page website for pizza ordring module.
+In the website we are fetching the available pizza details from server/pizza.json.After
+click  we are adding the selected pizza with different sizes and multiple qautity
+and the  order is placed and a success message is displayed. 
+
+
+To run the project in chrome need to follow the following steps
+
+1. Close chromeif already open.
+1. open cmd
+2. Go to chrome folder in program files
+3. run "chrome --allow-file-access-from-files file:///C:/Users/Oshin/Desktop/PizzaOrderingSystem/OrderList.html"
+otherwise you can use IE.
+Because We are not opening the page through a server, like Apache, so when the browser tries to obtain the resource it thinks it is from a separate domain,
+ which is not allowed.
+
+
